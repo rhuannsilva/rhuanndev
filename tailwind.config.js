@@ -6,7 +6,8 @@ module.exports = {
     ],
     theme: {
         colors: {
-            'blue-default' : '#6E07F3'
+            'blue-default' : '#6E07F3',
+            'black-opacity-15': 'rgba(0, 0, 0, 0.15)',
         }
     }
     // ...
