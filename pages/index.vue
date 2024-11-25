@@ -9,6 +9,7 @@
         <Experience></Experience>
         <IntroductionProjects></IntroductionProjects>
         <Projects></Projects>
+        <Footer></Footer>
     </div>
 </template>
 
@@ -19,9 +20,16 @@ import Stack from "@/pages/partials/stack.vue";
 import Experience from "./partials/experience.vue";
 import IntroductionProjects from "./partials/introduction-projects.vue";
 import Projects from "./partials/projects.vue";
+import Footer from "./partials/footer.vue";
 import ImageInitial from "./partials/image-initial.vue";
 
 useHead({
     title: 'rhuannsilva.dev'
 });
 </script>
+
+<style>
+html {
+    scroll-behavior: smooth;
+}
+</style>

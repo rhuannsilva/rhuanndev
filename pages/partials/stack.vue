@@ -4,7 +4,7 @@
             <div id="exp" class="flex p-10 flex-col justify-center items-center">
                 <div id="header" class="flex flex-col justify-center items-center gap-7">
                     <div id="logo" class="flex justify-center items-center w-20 h-20 rounded-full bg-blue-default">
-                        <span class="text-xl text-[#fff]"><;></span>
+                        <span class="text-xl text-[#fff]">&lt;/&gt;</span>
                     </div>
                     <div id="name">
                         <p class="font-extrabold">
@@ -41,7 +41,7 @@
             <div id="exp" class="flex p-10 flex-col justify-center items-center">
                 <div id="header" class="flex flex-col justify-center items-center gap-7">
                     <div id="logo" class="flex justify-center items-center w-20 h-20 rounded-full bg-blue-default">
-                        <span class="text-xl text-[#fff]"><;></span>
+                        <span class="text-xl text-[#fff]">&lt;/&gt;</span>
                     </div>
                     <div id="name">
                         <p class="font-extrabold">
